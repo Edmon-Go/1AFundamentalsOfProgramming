@@ -1,0 +1,3 @@
+This is an activity in Fundamentals of Programming.
+From Edmon Jr. V. Go
+This is a screenshot of proof that it's working.
