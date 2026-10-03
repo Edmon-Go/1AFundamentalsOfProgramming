@@ -17,7 +17,7 @@ public class LeapYearScanner {
             }
             // If entered data is a string or decimal
             } catch (Exception e) {
-            System.err.println("Please only enter an Interger.");
+            System.err.println("Please only enter an Integer.");
         }
     }
 }

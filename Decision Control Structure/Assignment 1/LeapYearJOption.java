@@ -32,7 +32,7 @@ public class LeapYearJOption {
         } catch (Exception e) {
             JOptionPane.showMessageDialog(
             null,
-            "Please only enter an Interger.",
+            "Please only enter an Integer.",
             "Invalid Input",
             JOptionPane.ERROR_MESSAGE
             );

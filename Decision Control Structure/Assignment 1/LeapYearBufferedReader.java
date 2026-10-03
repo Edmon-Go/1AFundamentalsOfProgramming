@@ -1,5 +1,4 @@
 import java.io.BufferedReader;
-import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class LeapYearBufferedReader {
@@ -20,7 +19,7 @@ public class LeapYearBufferedReader {
             }
         // If entered data is a string or decimal
             } catch (Exception e) {
-                System.err.println("Please only enter an Interger.");
+                System.err.println("Please only enter an Integer.");
         }
     }
 }
