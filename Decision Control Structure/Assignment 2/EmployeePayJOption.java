@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-class EmployeePayScanner {
+public class EmployeePayJOption {
     public static void main(String[] args) {
 
         try {
